@@ -117,5 +117,5 @@ In this topic, I will try to build my own ios app, then better try to publish it
 
 ## 5. Let SWIFT
 My friend, who is much experienced ios developer, suggested me to follow this one 
-- [raywenderlich swift] (https://www.raywenderlich.com/category/swift).
+- [raywenderlich swift] (https://www.raywenderlich.com/category/swift)
 
