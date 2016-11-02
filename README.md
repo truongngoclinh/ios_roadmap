@@ -5,6 +5,7 @@ Because IOS is also mobile programming, so it should be quite similiar to Androi
 
 ## 1. Understanding Objective-C
 I thought that, at the begining I need to read all the details given from [developer site] (https://developer.apple.com).
+
 1.1 [Introduction] (https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210-CH1-SW1)
 
 1.2 [Definining Classes] (https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/DefiningClasses/DefiningClasses.html#//apple_ref/doc/uid/TP40011210-CH3-SW1)
@@ -27,6 +28,7 @@ I thought that, at the begining I need to read all the details given from [devel
 
 ## 2. Understanding IOS components
 Firstly I will follow [code path ios] (https://guides.codepath.com/ios)
+
 2.1 Getting Started
 - [Setting Up Your Environment] (https://guides.codepath.com/ios/Setup)
 - [Starting a New Project] (https://guides.codepath.com/ios/New-Project)
