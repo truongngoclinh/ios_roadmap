@@ -3,4 +3,7 @@ I had learned and worked as IOS developer for a half year since I was in univers
 
 Because IOS is also mobile programming, so it should be quite similiar to Android. I will learn by mapping Android components, issues to IOS. But IOS and Android have really different framework, this is exactly I need to understand about them.
 
-## 1. Understand objective-c syntax, structure, what is differences between it and java?
+## 1. Understanding Objective-C
+### 1.1 [Introduction] (https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210-CH1-SW1)
+### 1.2
+
