@@ -111,6 +111,7 @@ Firstly let take a look at **developer site**
 Dont skip the tutorial from this site: 
 
 3.3 [raywenderlich ios] (https://www.raywenderlich.com/category/ios)
+3.4 [tutorialspoint ios] (https://www.tutorialspoint.com/ios/ios_getting_started.htm)
 
 ## 4. Buiding an App.
 In this topic, I will try to build my own ios app, then better try to publish it also. This is conclusion of what I've learned in previous topics and I must know how to publish an ios app into apple store. I heard that it is quite complicated than Android.
