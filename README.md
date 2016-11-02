@@ -26,6 +26,21 @@ I thought that, at the begining I need to read all the details given from [devel
 1.10 [Conventions] (https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html#//apple_ref/doc/uid/TP40011210-CH10-SW1)
 
 ## 2. Understanding IOS components
+Firstly I will follow [code path ios] (https://guides.codepath.com/ios)
+2.1 Getting Started
+- [Setting Up Your Environment] (https://guides.codepath.com/ios/Setup)
+- [Starting a New Project] (https://guides.codepath.com/ios/New-Project)
+- [Troubleshooting Common Issues] (https://guides.codepath.com/ios/Troubleshooting-Common-Issues)
+2.2 Fundamentals
+- [Swift Fundamentals] (https://guides.codepath.com/ios/Understanding-Swift)
+- [Managing Dependencies with CocoaPods] (https://guides.codepath.com/ios/CocoaPods)
+- [Understanding an Xcode Project] (https://guides.codepath.com/ios/Project-Basics)
+- [Understanding the Application Lifecycle (Needs Attention)] (https://guides.codepath.com/ios/Understanding-the-Application-Lifecycle)
+- [Application Architecture and MVC in iOS] (https://guides.codepath.com/ios/Application-Architecture)
+- [Using Swift and Objective-C in the Same Project] (https://guides.codepath.com/ios/Swift-ObjectiveC-Interoperability)
+- [Understanding Navigation in iOS] (https://guides.codepath.com/ios/Understanding-Navigation-in-iOS)
+- [Debugging Apps] (https://guides.codepath.com/ios/Debugging-Apps)
+2.3 Working with View Controllers
 
 
 
