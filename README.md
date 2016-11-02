@@ -56,9 +56,37 @@ Firstly I will follow [code path ios] (https://guides.codepath.com/ios)
 - Container View Controllers
   + [Quick start] (https://guides.codepath.com/ios/Container-View-Controllers-Quickstart)
   + [Guide] (https://guides.codepath.com/ios/Container-View-Controllers)
-- [Search Bar and Search Controllers]
-- [View Controller Transitions]
-- [View Controller Lifecycle]
+- [Search Bar and Search Controllers] (https://guides.codepath.com/ios/Search-Bar-Guide)
+- [View Controller Transitions] (https://guides.codepath.com/ios/View-Controller-Transitions)
+- [View Controller Lifecycle] (https://guides.codepath.com/ios/View-Controller-Lifecycle)
+
+2.4 View Programming and UIKit components
+
+- Table Views
+  + [Quick start] (https://guides.codepath.com/ios/Table-View-Quickstart)
+  + [Guide] (https://guides.codepath.com/ios/Table-View-Guide) 
+- [Collection Views] (https://guides.codepath.com/ios/Collection-View-Guide)
+- [Scroll Views] (https://guides.codepath.com/ios/Scroll-View-Guide)
+- [Working with UIImageView]  (https://guides.codepath.com/ios/Working-with-UIImageView)
+- Custom Views
+  + [Quick start] (https://guides.codepath.com/ios/Custom-Views-Quickstart)
+  + [Guide] (https://guides.codepath.com/ios/Custom-Views)
+- [Other Common Views] (https://guides.codepath.com/ios/Common-Views)
+- [Auto Layout Basics] (https://guides.codepath.com/ios/Auto-Layout-Basics)
+- [Interface Builder Basics] (https://guides.codepath.com/ios/Interface-Builder)
+- [Animation Basics] (https://guides.codepath.com/ios/Animation)
+
+2.5 Networking and Models
+
+- [Network Programming Basics] (https://guides.codepath.com/ios/Network-Programming)
+- [App Transport Security] (https://guides.codepath.com/ios/App-Transport-Security)
+- [Showing a progress HUD (with Long-Running Tasks)] (https://guides.codepath.com/ios/Showing-a-progress-HUD)
+- [Troubleshooting API Calls] (https://guides.codepath.com/ios/Troubleshooting-API-calls)
+
+2.6 Device Frameworks
+
+
+
 
 
 
