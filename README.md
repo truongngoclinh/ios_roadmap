@@ -108,12 +108,12 @@ Firstly let take a look at **developer site**
 3.2 [View Programming Guide] (https://developer.apple.com/library/content/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/Introduction/Introduction.html)
 
 Dont skip the tutorial from this site: 
-
 3.3 [raywenderlich ios] (https://www.raywenderlich.com/category/ios)
 
 ## 4. Buiding an App.
 In this topic, I will try to build my own ios app, then better try to publish it also. This is conclusion of what I've learned in previous topics and I must know how to publish an ios app into apple store. I heard that it is quite complicated than Android.
 
 ## 5. Let SWIFT
-My friend, who is much experienced ios developer, suggested me to follow this one [Guide from raywenderlich (https://www.raywenderlich.com/category/swift).
+My friend, who is much experienced ios developer, suggested me to follow this one 
+- [raywenderlich swift] (https://www.raywenderlich.com/category/swift).
 
