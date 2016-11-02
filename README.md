@@ -85,9 +85,33 @@ Firstly I will follow [code path ios] (https://guides.codepath.com/ios)
 
 2.6 Device Frameworks
 
+- [Retrieving Location] (https://guides.codepath.com/ios/Location-Quickstart)
+- [Working with the Camera] (https://guides.codepath.com/ios/Camera-Quickstart)
+- [Maps] (https://guides.codepath.com/ios/Maps)
 
+2.7 Other topics
 
+- [Services and Frameworks] (https://guides.codepath.com/ios/Services-Frameworks)
+- [Troubleshooting Xcode Issues] (https://guides.codepath.com/ios/Fixing-Xcode)
+- [Building Data-driven Apps with Parse] (https://guides.codepath.com/ios/Building-Data-driven-Apps-with-Parse)
+- [Multithreading in iOS] (https://guides.codepath.com/ios/Multithreading-in-iOS)
+- [Provisioning Profiles] (https://guides.codepath.com/ios/Provisioning-Profiles)
+- [Upgrading XCode Versions] (https://guides.codepath.com/ios/Upgrading-XCode-versions)
 
+It is enough for **code path** I think, let's move to another extra/advanced topic, what is gson, evenbus, retrofit... in IOS, how about rx?
 
+## 3. Extra topics (TBD)
+Firstly let take a look at **developer site**
 
+3.1 [iOS App Programming Guide] (https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html)
+3.2 [View Programming Guide] (https://developer.apple.com/library/content/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/Introduction/Introduction.html)
+
+Dont skip the tutorial from this site: 
+3.3 [raywenderlich ios] (https://www.raywenderlich.com/category/ios)
+
+## 4. Buiding an App.
+In this topic, I will try to build my own ios app, then better try to publish it also. This is conclusion of what I've learned in previous topics and I must know how to publish an ios app into apple store. I heard that it is quite complicated than Android.
+
+## 5. Let SWIFT
+My friend, who is much experienced ios developer, suggested me to follow this one [Guide from raywenderlich (https://www.raywenderlich.com/category/swift).
 
