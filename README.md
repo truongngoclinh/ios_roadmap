@@ -105,9 +105,11 @@ It is enough for **code path** I think, let's move to another extra/advanced top
 Firstly let take a look at **developer site**
 
 3.1 [iOS App Programming Guide] (https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html)
+
 3.2 [View Programming Guide] (https://developer.apple.com/library/content/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/Introduction/Introduction.html)
 
 Dont skip the tutorial from this site: 
+
 3.3 [raywenderlich ios] (https://www.raywenderlich.com/category/ios)
 
 ## 4. Buiding an App.
