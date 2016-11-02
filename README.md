@@ -33,6 +33,7 @@ Firstly I will follow [code path ios] (https://guides.codepath.com/ios)
 - [Setting Up Your Environment] (https://guides.codepath.com/ios/Setup)
 - [Starting a New Project] (https://guides.codepath.com/ios/New-Project)
 - [Troubleshooting Common Issues] (https://guides.codepath.com/ios/Troubleshooting-Common-Issues)
+
 2.2 Fundamentals
 - [Swift Fundamentals] (https://guides.codepath.com/ios/Understanding-Swift)
 - [Managing Dependencies with CocoaPods] (https://guides.codepath.com/ios/CocoaPods)
@@ -42,7 +43,23 @@ Firstly I will follow [code path ios] (https://guides.codepath.com/ios)
 - [Using Swift and Objective-C in the Same Project] (https://guides.codepath.com/ios/Swift-ObjectiveC-Interoperability)
 - [Understanding Navigation in iOS] (https://guides.codepath.com/ios/Understanding-Navigation-in-iOS)
 - [Debugging Apps] (https://guides.codepath.com/ios/Debugging-Apps)
+
 2.3 Working with View Controllers
+- [Passing Data and Propagating Events] (https://guides.codepath.com/ios/Passing-Data-Propagating-Events)
+- [Handling Form Input in Tables] (https://guides.codepath.com/ios/Form-Input)
+- Navigation Controllers 
+  + [Quick start] (https://guides.codepath.com/ios/Navigation-Controller-Quickstart)
+  + [Guide] (https://guides.codepath.com/ios/Navigation-Controller)
+- Tab Bar Controllers 
+  + [Quick start] (https://guides.codepath.com/ios/Tab-Bar-Quickstart)
+  + [Guide] (https://guides.codepath.com/ios/Tab-Bar-Controller-Guide)
+- Container View Controllers
+  + [Quick start] (https://guides.codepath.com/ios/Container-View-Controllers-Quickstart)
+  + [Guide] (https://guides.codepath.com/ios/Container-View-Controllers)
+- [Search Bar and Search Controllers]
+- [View Controller Transitions]
+- [View Controller Lifecycle]
+
 
 
 
