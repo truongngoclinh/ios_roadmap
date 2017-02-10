@@ -1,7 +1,7 @@
-# ROADMAP FOR LEARNING IOS
-I had learned and worked as IOS developer for a half year since I was in the university. It was from Feb to Aug 2008. At that time, I did not have any experience about Android, and also about programming in general. Now I'm quite familiar with Android. I know that it is still not enough for me to become a "senior" Android developer, but I really like to try new language. As a quoted I read on the internet: "Try 1 new programming language each year". So today I will try to learn IOS again, in the better way than I did in the past.
+# ROADMAP FOR LEARNING iOS
+I had learned and worked as iOS developer for a half year since I was in the university. It was from Feb to Aug 2008. At that time, I did not have any experience about Android, and also about programming in general. Now I'm quite familiar with Android. I know that it is still not enough for me to become a "senior" Android developer, but I really like to try new language. As a quoted I read on the internet: "Try 1 new programming language each year". So today I will try to learn iOS again, in the better way than I did in the past.
 
-Because IOS is also mobile programming, so it should be quite similiar to Android. I will learn by mapping Android components, issues to IOS. But IOS and Android have really different framework, this is exactly I need to understand about them.
+Because IOS is also mobile programming, so it should be quite similiar to Android. I will learn by mapping Android components, issues to iOS. But iOS and Android have really different framework, this is exactly I need to understand about them.
 
 After reading each section, I will update some notes to compare with Android, also its keypoint I think.
 
@@ -28,7 +28,7 @@ I thought that, at the begining I need to read all the details given from [devel
 
 1.10 [Conventions] (https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html#//apple_ref/doc/uid/TP40011210-CH10-SW1)
 
-## 2. Understanding IOS components
+## 2. Understanding iOS components
 Firstly I will follow [code path ios] (https://guides.codepath.com/ios)
 
 2.1 Getting Started
@@ -100,7 +100,7 @@ Firstly I will follow [code path ios] (https://guides.codepath.com/ios)
 - [Provisioning Profiles] (https://guides.codepath.com/ios/Provisioning-Profiles)
 - [Upgrading XCode Versions] (https://guides.codepath.com/ios/Upgrading-XCode-versions)
 
-It is enough for **code path** I think, let's move to another extra/advanced topic, what is gson, evenbus, retrofit... in IOS, how about rx?
+It is enough for **code path** I think, let's move to another extra/advanced topic, what is gson, evenbus, retrofit... in iOS, how about rx?
 
 ## 3. Extra topics (TBD)
 Firstly let take a look at **developer site**
@@ -111,14 +111,14 @@ Firstly let take a look at **developer site**
 
 Dont skip the tutorial from this site: 
 
-3.3 [raywenderlich ios] (https://www.raywenderlich.com/category/ios)
+3.3 [raywenderlich iOS] (https://www.raywenderlich.com/category/ios)
 
-3.4 [tutorialspoint ios] (https://www.tutorialspoint.com/ios/ios_getting_started.htm)
+3.4 [tutorialspoint iOS] (https://www.tutorialspoint.com/ios/ios_getting_started.htm)
 
 ## 4. Buiding an App.
-In this topic, I will try to build my own ios app, then better try to publish it also. This is conclusion of what I've learned in previous topics and I must know how to publish an ios app into apple store. I heard that it is quite complicated than Android.
+In this topic, I will try to build my own iOS app, then better try to publish it also. This is conclusion of what I've learned in previous topics and I must know how to publish an ios app into apple store. I heard that it is quite complicated than Android.
 
 ## 5. Let SWIFT
-My friend, who is much experienced ios developer, suggested me to follow this one 
+My friend, who is much experienced iOS developer, suggested me to follow this one 
 - [raywenderlich swift] (https://www.raywenderlich.com/category/swift)
 
