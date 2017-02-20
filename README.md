@@ -1,7 +1,7 @@
 # ROADMAP FOR LEARNING iOS
 I had learned and worked as iOS developer for a half year since I was in the university. It was from Feb to Aug 2008. At that time, I did not have any experience about Android, and also about programming in general. Now I'm quite familiar with Android. I know that it is still not enough for me to become a "senior" Android developer, but I really like to try new language. As a quoted I read on the internet: "Try 1 new programming language each year". So today I will try to learn iOS again, in the better way than I did in the past.
 
-Because IOS is also mobile programming, so it should be quite similiar to Android. I will learn by mapping Android components, issues to iOS. But iOS and Android have really different framework, this is exactly I need to understand about them.
+Because iOS is also mobile programming, so it should be quite similiar to Android. I will learn by mapping Android components, issues to iOS. But iOS and Android have really different framework, this is exactly I need to understand about them.
 
 After reading each section, I will update some notes to compare with Android, also its keypoint I think.
 
