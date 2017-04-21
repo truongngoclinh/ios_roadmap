@@ -97,7 +97,7 @@ Firstly I will follow [code path ios](https://guides.codepath.com/ios)
 - [Troubleshooting Xcode Issues](https://guides.codepath.com/ios/Fixing-Xcode)
 - [Building Data-driven Apps with Parse](https://guides.codepath.com/ios/Building-Data-driven-Apps-with-Parse)
 - [Multithreading in iOS](https://guides.codepath.com/ios/Multithreading-in-iOS)
-- [Provisioning Profiles] https://guides.codepath.com/ios/Provisioning-Profiles)
+- [Provisioning Profiles](https://guides.codepath.com/ios/Provisioning-Profiles)
 - [Upgrading XCode Versions](https://guides.codepath.com/ios/Upgrading-XCode-versions)
 
 It is enough for **code path** I think, let's move to another extra/advanced topic, what is gson, evenbus, retrofit... in iOS, how about rx?
