@@ -32,9 +32,9 @@ I thought that, at the begining I need to read all the details given from [devel
 Firstly I will follow [code path ios](https://guides.codepath.com/ios)
 
 2.1 Getting Started
-- [Setting Up Your Environment] (https://guides.codepath.com/ios/Setup)
-- [Starting a New Project] (https://guides.codepath.com/ios/New-Project)
-- [Troubleshooting Common Issues] (https://guides.codepath.com/ios/Troubleshooting-Common-Issues)
+- [Setting Up Your Environment](https://guides.codepath.com/ios/Setup)
+- [Starting a New Project](https://guides.codepath.com/ios/New-Project)
+- [Troubleshooting Common Issues](https://guides.codepath.com/ios/Troubleshooting-Common-Issues)
 
 2.2 Fundamentals
 - [Swift Fundamentals](https://guides.codepath.com/ios/Understanding-Swift)
@@ -111,9 +111,9 @@ Firstly let take a look at **developer site**
 
 Dont skip the tutorial from this site: 
 
-3.3 [raywenderlich iOS] (https://www.raywenderlich.com/category/ios)
+3.3 [raywenderlich iOS](https://www.raywenderlich.com/category/ios)
 
-3.4 [tutorialspoint iOS] (https://www.tutorialspoint.com/ios/ios_getting_started.htm)
+3.4 [tutorialspoint iOS](https://www.tutorialspoint.com/ios/ios_getting_started.htm)
 
 ## 4. Buiding an App.
 In this topic, I will try to build my own iOS app, then better try to publish it also. This is conclusion of what I've learned in previous topics and I must know how to publish an ios app into apple store. I heard that it is quite complicated than Android.
