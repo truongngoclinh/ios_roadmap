@@ -121,5 +121,6 @@ In this topic, I will try to build my own iOS app, then better try to publish it
 ## 5. Let SWIFT
 My friend, who is much experienced iOS developer, suggested me to follow this one 
 - [raywenderlich swift](https://www.raywenderlich.com/category/swift)
-- Current I'm really interested in online programming course, so I tried to get familiar with `Swift 3` with this [`Udemy course`](https://www.udemy.com/devslopes-ios10). It takes around 29$ on discount.
+
+Current I'm really interested in online programming course, so I tried to get familiar with `Swift 3` with this [`Udemy course`](https://www.udemy.com/devslopes-ios10). It takes around 29$ on discount.
 
