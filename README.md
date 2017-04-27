@@ -6,7 +6,7 @@ Because iOS is also mobile programming, so it should be quite similiar to Androi
 After reading each section, I will update some notes to compare with Android, also its keypoint I think.
 
 ## 1. Understanding Objective-C
-I thought that, at the begining I need to read all the details given from [developer site] (https://developer.apple.com).
+I thought that, at the begining I need to read all the details given from [developer site](https://developer.apple.com).
 
 1.1 [Introduction](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210-CH1-SW1)
 
